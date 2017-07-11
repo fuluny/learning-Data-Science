@@ -1,7 +1,5 @@
 # Learning Data Science
 
-Learning about Data Science with old and new kaggle competitions and other available datasets.
-
-Currently focusing on Neural Networks and other classifiers from Scikit-Learn.
-
-Eventually, data visualization will also be included.
+* Learning about Data Science with old and new kaggle competitions and other available datasets.
+* Currently, focusing on Neural Networks and other classifiers from Scikit-Learn.
+* Eventually, other aspects of data science will also be included (maybe I'll use Wiki for placing my notes about data science and specific projects).
