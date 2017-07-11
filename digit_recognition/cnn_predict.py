@@ -1,12 +1,7 @@
 #!/usr/bin/python
 
-from keras.models import Sequential
-from keras.utils import np_utils
-from keras.layers.core import Dense, Activation, Dropout
-from keras import optimizers
 from keras.models import load_model
 
-import os
 import pandas as pd
 import numpy as np
 
@@ -43,3 +38,4 @@ res = pd.DataFrame()
 res['ImageID'] = list(range(1,len(prediction)+1))
 res['Label'] = results
 res.to_csv('prediction.csv',index=False)
+print("prediction.csv saved to disk")
