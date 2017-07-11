@@ -3,7 +3,7 @@
 Learning Data Science with Kaggle: <br />
 https://www.kaggle.com/c/digit-recognizer
 
-Evaluating handwritten digit of  28x28 px image to correctly classify them ( 0 to 9 ).
+Evaluating handwritten digit of  28x28 px image to classify them ( 0 to 9 ).
 
 Current focus is on Convolutional Neural Network. <br />
 Started with one of the tutorial documents: <br />
