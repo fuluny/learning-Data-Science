@@ -1,6 +1,6 @@
 # Projects
-* **emotional_ai**: classfication of human emotion from 48x48 px image.
 * **digit_recognition**: classification of handwritten digit from 28x28 px image.
+* **emotional_ai**: classfication of human emotion from 48x48 px image.
 
 ## Learning Data Science
 
