@@ -6,11 +6,7 @@ https://www.kaggle.com/c/digit-recognizer
 Evaluating handwritten digit of  28x28 px image to classify them ( 0 to 9 ).
 
 Current focus is on Convolutional Neural Network. <br />
-Started with one of the tutorial documents: <br />
-https://www.kaggle.com/fchollet/simple-deep-mlp-with-keras/code/code
-and <br />
-Neural Network API:<br />
-https://keras.io/
+Started with [Kaggle Tutorial: Simple deep MLP with Keras](https://www.kaggle.com/fchollet/simple-deep-mlp-with-keras/code/code) and [Neural Network API (Keras) Documentations](https://keras.io/)
 
 ## Files:
 * **cnn_predict.py**: classifies 28x28 px image and writes the prediction into .csv file. Prediction made from saved model outputed by cnn_model.py </br>
